@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17 20">
+  <defs>
+    <linearGradient id="linear-gradient" x1="970.46" y1="433.67" x2="989.8" y2="429.84" gradientTransform="matrix(1, 0, 0, -1, 0, 1082)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#de0a1e"/>
+      <stop offset="1" stop-color="#de0a1e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="973.82" y1="442.64" x2="986.11" y2="439.58" gradientTransform="matrix(1, 0, 0, -1, 0, 1082)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#de0a1e"/>
+      <stop offset="1" stop-color="#f09099"/>
+    </linearGradient>
+  </defs>
+  <title>Lock</title>
+  <g opacity="0.5">
+    <path d="M975.83,643.59h8.47a4.22,4.22,0,0,1,4.26,4.17v4.94a4.22,4.22,0,0,1-4.26,4.17h-8.47a4.23,4.23,0,0,1-4.27-4.17v-4.94A4.23,4.23,0,0,1,975.83,643.59Zm4.23,8.61a.88.88,0,0,0,.89-.87v-2.21a.89.89,0,0,0-1.78,0v2.21A.88.88,0,0,0,980.06,652.2Z" transform="translate(-971.56 -636.87)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <path d="M985.59,642.27v1.47a4.15,4.15,0,0,0-1.12-.15h-.66v-1.32a3.75,3.75,0,0,0-7.49,0v1.34h-.65a3.81,3.81,0,0,0-1.13.16v-1.48a5.53,5.53,0,0,1,11.05,0Z" transform="translate(-971.56 -636.87)" opacity="0.4" fill="url(#linear-gradient-2)" style="isolation: isolate"/>
+  </g>
+</svg>
